@@ -1,9 +1,6 @@
-<h1 align="center">Hey! Nice to see you😉 I'm Gowtham Kumar D</h1>
-<h3 align="center">A Passionate Backend developer in JAVA</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamkumargit&label=Profile%20views&color=0e75b6&style=flat" alt="gowthamkumargit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowthamkumargit" alt="gowthamkumargit" /></a> </p>
+<h1 align="center">Hey! Nice to Meet You😉 I'm Gowtham Kumar</h1>
+<h3 align="center">A Passionate Web Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -11,9 +8,11 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to work on Full stack project **Not yet**
+- 💬 Ask me about **Tech**
 
 - 📫 How to reach me **gowthamkumar0802002@gmail.com**
+
+- ⚡ Fun fact **I'm not a Batman 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
